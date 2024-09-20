@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "319216908601",
+    "project_id": "eurosanpro-fc510",
+    "storage_bucket": "eurosanpro-fc510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319216908601:android:f38ced64996e1e2a9550e8",
+        "android_client_info": {
+          "package_name": "com.example.eurosanpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319216908601-7ilvtmkfaggadvl21ippe09oold5tp8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eurosanpro",
+            "certificate_hash": "6474858b811319e3527dd246bb631016aa3169b0"
+          }
+        },
+        {
+          "client_id": "319216908601-g4nj150ioq8p8o23ac4svpac8tj0udti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvo3ZarEeJB6AGvr_NP6uV4AMl77DTNIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319216908601-g4nj150ioq8p8o23ac4svpac8tj0udti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319216908601-au9ehl5pdqrsnmo49n625kjkvd5d638g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eurosanpro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
