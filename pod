@@ -1,0 +1,1 @@
+/Users/zalansiklodi/.rbenv/shims/pod
